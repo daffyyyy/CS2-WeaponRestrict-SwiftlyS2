@@ -1,5 +1,0 @@
-L:\GITHUB\CS2-WeaponRestrict-SwiftlyS2\CS2-WeaponRestrict-SwiftlyS2\build\publish\CS2_WeaponRestrict_SwiftlyS2\resources\translations\en.jsonc
-L:\GITHUB\CS2-WeaponRestrict-SwiftlyS2\CS2-WeaponRestrict-SwiftlyS2\build\publish\CS2_WeaponRestrict_SwiftlyS2\resources\translations\pl.jsonc
-L:\GITHUB\CS2-WeaponRestrict-SwiftlyS2\CS2-WeaponRestrict-SwiftlyS2\build\publish\CS2_WeaponRestrict_SwiftlyS2\CS2_WeaponRestrict_SwiftlyS2.dll
-L:\GITHUB\CS2-WeaponRestrict-SwiftlyS2\CS2-WeaponRestrict-SwiftlyS2\build\publish\CS2_WeaponRestrict_SwiftlyS2\CS2_WeaponRestrict_SwiftlyS2.pdb
-L:\GITHUB\CS2-WeaponRestrict-SwiftlyS2\CS2-WeaponRestrict-SwiftlyS2\build\publish\CS2_WeaponRestrict_SwiftlyS2\CS2_WeaponRestrict_SwiftlyS2.deps.json
