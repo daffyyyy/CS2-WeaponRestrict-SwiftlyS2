@@ -11,18 +11,13 @@
   <img src="https://img.shields.io/github/license/daffyy/CS2_WeaponRestrict_SwiftlyS2" alt="License">
 </p>
 
-## Getting Started (delete me)
+Thanks `jon, sapphyrus & FireBird` for css plugin, its ported from your ;) 
 
-1. **Edit `PluginMetadata` Attribute**  
-   - Set your plugin's `Id`, `Name`, `Version`, `Author` and `Description`.
-2. **Edit `CS2_WeaponRestrict_SwiftlyS2.csproj`**  
-   - Set the `<AssemblyName>` property to match your plugin's main class name.
-   - Add any additional dependencies as needed.
-3. **Implement your plugin logic** in C#.
-   - Place your main plugin class in the root of the project.
-   - Use the SwiftlyS2 managed API to interact with the game and core.
-4. **Add resources**  
-   - Place any required files in the `gamedata`, `templates`, or `translations` folders as needed.
+## Installation
+
+- Install latest SwiftlyS2
+- Download latest plugin release and extract it into `addons/swiftlys2/plugins`
+- Start server & configure plugin config in `addons/swiftlys2/configs/plugins/CS2_WeaponRestrict_SwiftlyS2/config.jsonc`
 
 ## Building
 
