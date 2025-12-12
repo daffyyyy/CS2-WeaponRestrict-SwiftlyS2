@@ -10,7 +10,7 @@ public partial class CS2_WeaponRestrict_SwiftlyS2
     [EventListener<EventDelegates.OnMapLoad>]
     public void OnMapLoadEvent(IOnMapLoadEvent @event)
     {
-        LoadMapConfig();
+        Core.Scheduler.DelayBySeconds(0.2f, LoadMapConfig);
     }
     
     [EventListener<EventDelegates.OnItemServicesCanAcquireHook>]
