@@ -1,0 +1,4 @@
+{
+  "RestrictMessage": "[orange]{0}[default] is currently limited to [orange][1][default] per team!",
+  "DisabledMessage": "[orange]{0}[default] is currently [lightred]disabled[default]!"
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CS2_WeaponRestrict_SwiftlyS2/1.0.0": {
+        "runtime": {
+          "CS2_WeaponRestrict_SwiftlyS2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS2_WeaponRestrict_SwiftlyS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
