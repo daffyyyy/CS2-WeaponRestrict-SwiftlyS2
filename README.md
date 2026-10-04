@@ -19,6 +19,11 @@ Thanks `jon, sapphyrus & FireBird` for css plugin, its ported from your ;)
 - Download latest plugin release and extract it into `addons/swiftlys2/plugins`
 - Start server & configure plugin config in `addons/swiftlys2/configs/plugins/CS2_WeaponRestrict_SwiftlyS2/config.jsonc`
 
+## Commands (serverside)
+
+- sw_weaponrestrict_enable -> enable the plugin
+- sw_weaponrestrict_disable -> disable the plugin
+
 ## Building
 
 - Open the project in your preferred .NET IDE (e.g., Visual Studio, Rider, VS Code).
